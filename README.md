@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @farah874
-- 👀 I’m interested in blockchain development and network security .
-- 🌱 I’m currently learning  to build Dapp 
-- 💞️ I’m looking to collaborate on building apps 
-- 📫  you can reach me on my tweeter FarahWade73@ 
-- 😄 Pronouns: he
+👋 Hi, I’m @farah874
 
+👀 I’m passionate about Cybersecurity, Cloud Security, DevSecOps, and AI Security
+
+🌱 I’m currently learning Networking (CCNA), SOC operations, and Cloud Security tools
+
+💻 Exploring projects in SOC analysis, incident response, DevSecOps pipelines, and DApp security
+
+💞️ I’m looking to collaborate on Blue Team, DevSecOps, and security automation projects
+
+📫 Reach me on Twitter: @FarahWade73
 
 <!---
 farah874/farah874 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

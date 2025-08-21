@@ -6,7 +6,7 @@
 
 💻 Exploring projects in SOC analysis, incident response, DevSecOps pipelines, and DApp security
 
-💞️ I’m looking to collaborate on Blue Team, DevSecOps, and security automation projects
+💞️ I’m looking to collaborate on Blue Team, DevSecOps,cloud security, and security automation projects
 
 📫 Reach me on Twitter: @FarahWade73
 

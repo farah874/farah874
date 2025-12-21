@@ -2,7 +2,7 @@
 
 👀 I’m passionate about Cybersecurity, Cloud Security, DevSecOps, and AI Security
 
-🌱 I’m currently learning Networking (CCNA), SOC operations, and Cloud Security tools
+🌱 I’m currently learning AWS cloud practionar , SOC operations, and Cloud Security tools
 
 💻 Exploring projects in SOC analysis, incident response, DevSecOps pipelines, and DApp security
 

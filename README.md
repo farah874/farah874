@@ -1,10 +1,10 @@
 👋 Hi, I’m @farah874
 
-👀 I’m passionate about Cybersecurity, Cloud Security, DevSecOps, and AI Security
+👀 I’m passionate about Cybersecurity, Cloud Security, Software Engineering , and Cloud Computing 
 
-🌱 I’m currently learning AWS cloud practionar , SOC operations, and Cloud Security tools
+🌱 I’m currently learning AWS cloud practionar , SOC operations , and Cloud Security tools
 
-💻 Exploring projects in SOC analysis, incident response, DevSecOps pipelines, and DApp security
+💻 Exploring projects in SOC analysis, incident response, DevSecOps pipelines, and cloud computing 
 
 💞️ I’m looking to collaborate on Blue Team, DevSecOps,cloud security, and security automation projects
 
